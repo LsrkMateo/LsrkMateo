@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateo Guillen</h1>
 <h3 align="center">A passionate full stack developer in Colombia</h3>
 
-- 🔭 I’m currently working on [Proyecto de grado](https://github.com/LsrkMateo/Proyecto-de-grado) - [pruebas react](https://github.com/LsrkMateo/React-tests) - [test](https://github.com/LsrkMateo/Design-tests)
+- 🔭 I’m currently working on [Proyecto de grado](https://github.com/LsrkMateo/Proyecto-de-grado) - [pruebas react](https://github.com/LsrkMateo/React-tests) - [pruebas de diseño](https://github.com/LsrkMateo/Design-tests)
 
 - 🌱 I’m currently learning **svelte-kit - react - nodeJS**
 
