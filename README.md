@@ -44,4 +44,4 @@
 
 ---
 
-<h4 align="center"> current in love with computer science... </h4>
+<h4 align="center"> current in love with tech world... </h4>
