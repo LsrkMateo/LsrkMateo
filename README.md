@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateo Guillen</h1>
+
 <h3 align="center">A passionate full stack developer in Colombia</h3>
 
 - 🔭 I’m currently working on [Hasnode blogs](https://github.com/LsrkMateo/Hashnode-blogs) - [pruebas svelte](https://github.com/LsrkMateo/Svelte-tests) - [pruebas react](https://github.com/LsrkMateo/React-tests) - [pruebas de diseño](https://github.com/LsrkMateo/Design-tests)
@@ -15,8 +16,15 @@
 
 - ⚡ Fun fact **I have never be able to run any Linux Distro 💀**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="center">Connect with me:</h2>
+
+### Daily.dev profile card:
+
+<a href="https://app.daily.dev/LsrkMateo"><img src="https://api.daily.dev/devcards/1c605729dad547a2a6ec2d7527de84d0.png?r=ngf" width="400" alt="Mateo Guillen's Dev Card"/></a>
 <p align="left">
+  
+### Stack overflow profile:
+  
 <a href="https://stackoverflow.com/users/20825444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20825444" height="30" width="40" /></a>
 </p>
 
